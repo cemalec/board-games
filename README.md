@@ -1,2 +1,2 @@
-# Chess
-A simple python app to generate and analyze chess moves.
+# Board Games
+Python code to generate valid moves for board games, mostly an exercise in pydantic.
